@@ -1,0 +1,2 @@
+List: ['jamoon', 'halwa', 'jalebi', 'holige', 'peda']
+Tuple: ('jamoon', 'halwa', 'jalebi', 'holige', 'peda')
